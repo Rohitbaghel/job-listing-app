@@ -1,0 +1,41 @@
+{
+  "Jobs": [
+    {
+      "id": 1,
+      "name": "Frontend Develope",
+      "title": "SDE1",
+      "salary": "16l-20L",
+      "description": "lkddoope",
+      "location": "Delhi",
+      "jobType": "remote"
+    },
+    {
+      "id": 2,
+      "name": "Backened Develope",
+      "title": "SDE2",
+      "salary": "16L-20L",
+      "description": "lkddoope",
+      "location": "Gurgaon",
+      "jobType": "remote"
+    },
+    {
+      "id": 3,
+      "name": "Frontend  Backened Developer",
+      "title": "SDE3",
+      "salary": "16l-20L",
+      "description": "lkddoope",
+      "location": "New Delhi",
+      "jobType": "remote"
+    },
+    {
+      "id": 4,
+      "name": "Frontend DevelopeR",
+      "title": "SDE1",
+      "salary": "16l-20L",
+      "description": "lkddoope",
+      "location": "Bombay",
+      "jobType": "remote"
+    }
+ 
+  ]
+}
