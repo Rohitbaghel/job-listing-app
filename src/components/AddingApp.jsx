@@ -27,9 +27,11 @@ const {name,title,description,salary,location,jobType} = job
       headers: {
         'Content-Type': 'application/json'
       },
-        body: JSON.stringify(data)
+      body: JSON.stringify({
+          name,title,description,location,salary,jobType
+        })
     })
-      console.log(data)
+      // console.log(data)
   }
 
   return (
